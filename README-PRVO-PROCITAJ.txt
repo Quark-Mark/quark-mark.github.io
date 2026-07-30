@@ -44,3 +44,9 @@ TEHNIČKO AŽURIRANJE v0.7:
 - repozitorijum mora biti quark-mark.github.io;
 - zvanična besplatna adresa biće https://quark-mark.github.io/;
 - promenjen autorski citat na naslovnoj strani.
+
+NOVO U VERZIJI 0.8
+- Istaknuto IMDb dugme u uvodnom delu i poseban glumački blok.
+- Dodat odeljak „Poklon posetiocima“ sa knjižicom „Dubina tišine“.
+- PDF se nalazi u downloads/dubina-tisine-quark-mark-poklon.pdf.
+- Naslovna slika se nalazi u assets/dubina-tisine-naslovna.jpg.
