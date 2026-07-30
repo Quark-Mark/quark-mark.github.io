@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quark-mark.github.io/sitemap.xml
