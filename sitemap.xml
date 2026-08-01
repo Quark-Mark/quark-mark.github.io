@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://quark-mark.github.io/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>https://quark-mark.github.io/</loc></url>
+<url><loc>https://quark-mark.github.io/knjizevnost.html</loc></url>
+<url><loc>https://quark-mark.github.io/pariz-1932-odlomak.html</loc></url>
+<url><loc>https://quark-mark.github.io/stakleni-puz-odlomak.html</loc></url>
+<url><loc>https://quark-mark.github.io/radio-drama.html</loc></url>
+<url><loc>https://quark-mark.github.io/muzika.html</loc></url>
+<url><loc>https://quark-mark.github.io/film-video.html</loc></url>
+<url><loc>https://quark-mark.github.io/eseji.html</loc></url>
+<url><loc>https://quark-mark.github.io/zh/</loc></url>
+<url><loc>https://quark-mark.github.io/zh/knjizevnost.html</loc></url>
+<url><loc>https://quark-mark.github.io/zh/pariz-1932-excerpt.html</loc></url>
+<url><loc>https://quark-mark.github.io/zh/stakleni-puz-excerpt.html</loc></url>
+<url><loc>https://quark-mark.github.io/zh/radio-drama.html</loc></url>
+<url><loc>https://quark-mark.github.io/en/</loc></url>
+<url><loc>https://quark-mark.github.io/en/literature.html</loc></url>
+<url><loc>https://quark-mark.github.io/en/paris-1932-excerpt.html</loc></url>
+<url><loc>https://quark-mark.github.io/en/glass-snail-excerpt.html</loc></url>
+<url><loc>https://quark-mark.github.io/en/radio-drama.html</loc></url>
+<url><loc>https://quark-mark.github.io/en/music.html</loc></url>
+<url><loc>https://quark-mark.github.io/en/film-video.html</loc></url>
+<url><loc>https://quark-mark.github.io/en/essays.html</loc></url>
 </urlset>

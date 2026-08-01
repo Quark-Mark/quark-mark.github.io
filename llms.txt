@@ -42,3 +42,11 @@ His work also includes music adaptations, audio books and sound projects, origin
 
 ## Acting profile
 - Official IMDb profile: https://www.imdb.com/name/nm15517147/
+
+
+## Site sections (v0.9)
+- Literature: /knjizevnost.html
+- Music and sound: /muzika.html
+- Film, video and conversations: /film-video.html
+- Essays, science and ideas: /eseji.html
+The website is currently evolving and new content is being added. English and Simplified Chinese versions are planned.
