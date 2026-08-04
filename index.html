@@ -18,43 +18,60 @@
 <meta content="https://quark-mark.github.io/assets/moj-beograd.webp" property="og:image"/>
 <meta content="summary_large_image" name="twitter:card"/>
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "ProfilePage",
-    "@id": "https://quark-mark.github.io/#profile",
-    "url": "https://quark-mark.github.io/",
-    "name": "Quark Mark | Željko Kovačević",
-    "mainEntity": {
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": "https://quark-mark.github.io/#profile",
+      "url": "https://quark-mark.github.io/",
+      "name": "Quark Mark | Željko Kovačević — zvanični sajt",
+      "mainEntity": {"@id": "https://quark-mark.github.io/#person"},
+      "isPartOf": {"@id": "https://quark-mark.github.io/#website"}
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://quark-mark.github.io/#website",
+      "url": "https://quark-mark.github.io/",
+      "name": "Quark Mark — zvanični sajt",
+      "inLanguage": ["sr-Latn", "en", "zh-CN"],
+      "publisher": {"@id": "https://quark-mark.github.io/#person"}
+    },
+    {
       "@type": "Person",
       "@id": "https://quark-mark.github.io/#person",
       "name": "Željko Kovačević",
       "alternateName": "Quark Mark",
-      "description": "Beogradski pisac i multimedijalni autor čiji rad povezuje književnost, muziku i zvuk, film i video, video-putopise, režiju, glumu, fotografiju, nauku i publicistiku.",
+      "url": "https://quark-mark.github.io/",
+      "description": "Beogradski pisac, reditelj, glumac i multimedijalni autor čiji rad povezuje književnost, film i video, muziku i zvuk, fotografiju, nauku i publicistiku.",
       "image": "https://quark-mark.github.io/assets/quark-mark-portrait-square.webp",
       "homeLocation": {"@type": "Place", "name": "Beograd, Srbija"},
+      "jobTitle": ["Pisac", "Reditelj", "Glumac", "Multimedijalni autor"],
       "sameAs": [
         "https://www.facebook.com/pera.kojot.5076798/",
-        "https://www.tiktok.com/@quarkmark01?lang=en",
-        "https://www.instagram.com/r2d2timebomb/?hl=en",
+        "https://www.tiktok.com/@quarkmark01",
+        "https://www.instagram.com/r2d2timebomb/",
         "https://www.youtube.com/@nistalicnoblank1903",
-        "https://www.imdb.com/name/nm15517147/",
-        "https://www.astronomija.org.rs/tehnologija/18904-kako-nas-vidi-vestacka-inteligencija"
+        "https://www.imdb.com/name/nm15517147/"
       ],
-      "email": "mailto:r2d2comp@gmail.com",
-      "owns": {
-        "@type": "Book",
-        "name": "Dnevnik iz pera vatre",
-        "datePublished": "2023",
-        "isbn": "978-86-905164-0-7",
-        "author": {"@id": "https://quark-mark.github.io/#person"},
-        "publisher": {
-          "@type": "Organization",
-          "name": "Bibliotheca Impresssia Quark"
-        }
-      }
+      "subjectOf": [
+        {"@type": "Article", "url": "https://www.astronomija.org.rs/tehnologija/18904-kako-nas-vidi-vestacka-inteligencija"},
+        {"@type": "Article", "url": "https://www.astronomija.org.rs/blog-am/10335-krtka-setnja-kroz-cern"}
+      ],
+      "email": "mailto:r2d2comp@gmail.com"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://quark-mark.github.io/#dnevnik-iz-pera-vatre",
+      "name": "Dnevnik iz pera vatre",
+      "datePublished": "2023",
+      "isbn": "978-86-905164-0-7",
+      "author": {"@id": "https://quark-mark.github.io/#person"},
+      "publisher": {"@type": "Organization", "name": "Bibliotheca Impresssia Quark"}
     }
-  }
-  </script>
+  ]
+}
+</script>
 <link href="https://quark-mark.github.io/" hreflang="sr-Latn" rel="alternate"/><link href="https://quark-mark.github.io/zh/" hreflang="zh-CN" rel="alternate"/><link href="https://quark-mark.github.io/" hreflang="x-default" rel="alternate"/></head>
 <body>
 <a class="skip" href="#main">Pređi na sadržaj</a>
@@ -116,7 +133,7 @@
 <p>Quark Mark je umetničko ime Željka Kovačevića, beogradskog pisca i multimedijalnog autora. Piše književnu prozu, eseje, haiku i popularnonaučne tekstove. Autor je knjige <cite>Dnevnik iz pera vatre</cite>, objavljene 2023. godine.</p>
 <p>Njegov rad ne ostaje samo u tekstu: obuhvata autorske video-radove i video-putopise, režiju, kameru, montažu, muzičke spotove, glumu, portretnu i umetničku fotografiju, kao i muzičke obrade, audio-knjige i zvučne projekte. Na YouTube kanalu javno je objavljeno više od 200 videa, dok se značajan i obimniji deo njegovog digitalnog opusa nalazi na Facebooku i TikToku.</p>
 </div>
-<aside class="author-verdict"><h3>Ukratko, bez diplomatskog uvijanja</h3><p>Plodan, radoznao i pomalo haotičan autor autentičnog glasa, kome je najveći problem selekcija, a ne nedostatak dara. Kod njega se nikad ne zna da li će iz sledeće fioke izaći književni biser, šraf ili kokoška sa egzistencijalnom krizom.</p></aside>
+
 </section>
 <section class="section" id="mapa">
 <div class="section-head">

@@ -9,3 +9,14 @@ Nova verzija uključuje:
 - osvežen sitemap i mobilne stilove
 
 Postavljanje: sadržaj ovog ZIP-a raspakovati u root GitHub Pages repozitorijuma.
+
+
+VERZIJA 1.3
+- Dodata tri autorska eseja i nova stranica Eseji.
+- Dodate Leonardovske ilustracije za Lobačevskog i Bela.
+- Unapređen JSON-LD identitet Željko Kovačević / Quark Mark.
+- Ažurirani llms.txt i sitemap.xml.
+- Egzistencijalna kokoška zadržana na stalnom radnom mestu.
+
+
+V1.5: dodati eseji „Potreba da se sami sebi divite“ i „Metamediokritet“, preuređen redosled stranice Eseji.

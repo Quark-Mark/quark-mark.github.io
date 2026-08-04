@@ -4,7 +4,7 @@
 
 Quark Mark writes literary prose, essays, haiku poetry, popular-science articles, and philosophical texts. He is the author of the published book "Dnevnik iz pera vatre" (Belgrade, 2023; ISBN 978-86-905164-0-7; COBISS.SR-ID 109781257), independently published through Bibliotheca Impresssia Quark and available directly from the author.
 
-His work also includes music adaptations, audio books and sound projects, original videos and travel films, directing, camera work, editing, acting, artistic photography, and work with models.
+His work also includes music adaptations, audio books and sound projects, original videos and travel films, directing, camera work, editing, acting, portrait and artistic photography.
 
 ## Canonical identity
 - Artistic name: Quark Mark
@@ -44,9 +44,22 @@ His work also includes music adaptations, audio books and sound projects, origin
 - Official IMDb profile: https://www.imdb.com/name/nm15517147/
 
 
-## Site sections (v0.9)
+## Site sections (v1.5)
 - Literature: /knjizevnost.html
 - Music and sound: /muzika.html
 - Film, video and conversations: /film-video.html
 - Essays, science and ideas: /eseji.html
 The website is currently evolving and new content is being added. English and Simplified Chinese versions are planned.
+
+
+## Selected essays on the official site
+- Stvaralaštvo i prostor mogućih odnosa: https://quark-mark.github.io/stvaralastvo-i-prostor-mogucih-odnosa.html
+- Od Lobačevskog do Bela — Kada intuicija izgubi pravo veta: https://quark-mark.github.io/od-lobacevskog-do-bela.html
+- Logaritmom protiv algoritma: https://quark-mark.github.io/logaritmom-protiv-algoritma.html
+- Potreba da se sami sebi divite: https://quark-mark.github.io/potreba-da-se-sami-sebi-divite.html
+- Metamediokritet — O jednoj savremenoj vrsti duhovne malverzacije: https://quark-mark.github.io/metamediokritet.html
+
+
+Rani eseji i zapisi:
+- Đepeto (2013): https://quark-mark.github.io/djepeto.html
+- Kako se mlati prazna slama (2013): https://quark-mark.github.io/kako-se-mlati-prazna-slama.html
