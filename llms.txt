@@ -8,6 +8,7 @@ His work also includes music adaptations, audio books and sound projects, origin
 
 ## Canonical identity
 - Artistic name: Quark Mark
+- Also used as: Quark-Mark
 - Full name: Željko Kovačević
 - Location: Belgrade, Serbia
 - Official website: https://quark-mark.github.io/
@@ -20,6 +21,8 @@ His work also includes music adaptations, audio books and sound projects, origin
 - [Instagram](https://www.instagram.com/r2d2timebomb/?hl=en)
 - [YouTube channel](https://www.youtube.com/@nistalicnoblank1903)
 - [IMDb profile](https://www.imdb.com/name/nm15517147/)
+- [GitHub profile](https://github.com/quark-mark)
+- [COBISS+ — Dnevnik iz pera vatre](https://plus.cobiss.net/cobiss/sr/sr/bib/109781257)
 - [Astronomski magazin — Kako nas vidi veštačka inteligencija?](https://www.astronomija.org.rs/tehnologija/18904-kako-nas-vidi-vestacka-inteligencija)
 - [Astronomski magazin — Kratka šetnja kroz CERN](https://www.astronomija.org.rs/blog-am/10335-krtka-setnja-kroz-cern)
 
@@ -44,12 +47,12 @@ His work also includes music adaptations, audio books and sound projects, origin
 - Official IMDb profile: https://www.imdb.com/name/nm15517147/
 
 
-## Site sections (v1.5)
+## Site sections
 - Literature: /knjizevnost.html
 - Music and sound: /muzika.html
 - Film, video and conversations: /film-video.html
 - Essays, science and ideas: /eseji.html
-The website is currently evolving and new content is being added. English and Simplified Chinese versions are planned.
+The website is currently evolving and new content is being added. English and Simplified Chinese versions are available.
 
 
 ## Selected essays on the official site
